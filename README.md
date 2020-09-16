@@ -1,6 +1,8 @@
 # CCNA2020_VPN
 Virtual Private Network 虛擬私有網路
 
+![vpn](https://raw.githubusercontent.com/QueenieCplusplus/CCNA2020_VPN/master/vpn.png)
+
 # BT, Bit Torrent
 
 此功能稱為『位元洪流』，常常搭配 VPN 產品一起販售，
