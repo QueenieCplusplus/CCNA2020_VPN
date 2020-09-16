@@ -17,3 +17,5 @@ Virtual Private Network 虛擬私有網路
 
 
 # Tunneling, 隧道協議
+
+遠端使用者利用 ISP 提供的撥接服務，藉由隧道協定，穿過 WAN ，到達本地端的 LAN 區域網路內。
