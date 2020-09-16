@@ -20,6 +20,11 @@ Virtual Private Network 虛擬私有網路
 鑑別技術則為 RAP、CHAP，加密技術為 DES。
 
 
+# GRE 封裝技術
+
+![gre](https://raw.githubusercontent.com/QueenieCplusplus/CCNA2020_VPN/master/GRE%20Frame.png)
+
+
 # Tunneling, 隧道協議
 
 遠端使用者利用 ISP 提供的撥接服務（取代傳統的長途撥接），藉由隧道協定，穿過 WAN ，到達本地端的 LAN 區域網路內。
