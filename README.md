@@ -29,7 +29,7 @@ Virtual Private Network 虛擬私有網路
 
 # SetUp 設定方式
 
-![setup]()
+![setup](https://raw.githubusercontent.com/QueenieCplusplus/CCNA2020_VPN/master/GUI%20setup.png)
 
 
 # Tunneling, 隧道協議
