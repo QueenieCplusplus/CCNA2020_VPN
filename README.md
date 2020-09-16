@@ -23,4 +23,10 @@ Virtual Private Network 虛擬私有網路
 
 遠端使用者利用 ISP 提供的撥接服務（取代傳統的長途撥接），藉由隧道協定，穿過 WAN ，到達本地端的 LAN 區域網路內。
 
+# 串連方式
+
+可以與 ISP 或是電信公司提供的服務相互合作，不受限制。
+如數據機抑或 ADSL，ATM、FrameRelay 亦可!
+
+
 
