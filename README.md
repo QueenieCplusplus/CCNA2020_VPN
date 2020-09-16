@@ -1,5 +1,6 @@
 # CCNA2020_VPN
 Virtual Private Network 虛擬私有網路
+取代傳統昂貴得 PVC (Permanent Virtual Connection) 服務。
 
 ![vpn](https://raw.githubusercontent.com/QueenieCplusplus/CCNA2020_VPN/master/vpn.png)
 
