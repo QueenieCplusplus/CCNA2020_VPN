@@ -17,19 +17,24 @@ Virtual Private Network 虛擬私有網路
 # L2 P2P (Point to Point), 第二層的點對點傳輸
 
 藉由封裝技術，改變封包，讓封包如同膠囊，彼此建構虛擬隧道，實現點對點傳輸。
-鑑別技術則為 RAP、CHAP (爾後發展了 X.509)，加密技術為 DES。
-金鑰管理技術則為 SKMIP。
 
 * PPP:
 
-使用 GRE 封裝技術。
+封裝技術為 GRE。
+鑑別技術則為 RAP、CHAP (爾後發展了 X.509)，加密技術為 DES。
+金鑰管理技術則為 SKMIP。
 
 
 * L2TP:
 
 與 PPP 類同，但是使用 UDP 取代 TCP，能節省通道，可在同一通道實行多條連線傳輸。
+比 PPTP 多了 L2TF 技術。
 
 # IPsec (L3), 第三層的點對點傳輸協議
+
+封裝技術為 GRE。
+鑑別技術則為 RAP、CHAP (爾後發展了 X.509)，加密技術為 DES。
+金鑰管理技術則為 SKMIP。
 
 
 # GRE 封裝技術
