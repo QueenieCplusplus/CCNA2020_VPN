@@ -17,6 +17,7 @@ Virtual Private Network 虛擬私有網路
 # L2 P2P (Point to Point), 撥接的點對點傳輸
 
 藉由封裝技術，改變封包，讓封包如同膠囊，彼此建構虛擬隧道，實現點對點傳輸。
+鑑別技術則為 RAP、CHAP，加密技術為 DES。
 
 
 # Tunneling, 隧道協議
