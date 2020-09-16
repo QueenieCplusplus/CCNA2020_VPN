@@ -75,7 +75,7 @@ Virtual Private Network 虛擬私有網路
 
 專線擁有實體上的安全，而 VPN 的安全度歸功於加密技術。
 
-# 混合使用
+# Flexibility, 可供彈性地混合使用
 
 ![mix](https://raw.githubusercontent.com/QueenieCplusplus/CCNA2020_VPN/master/mix_used.png)
 
