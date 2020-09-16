@@ -13,4 +13,7 @@ Virtual Private Network 虛擬私有網路
 讓傳統的伺服器不必獨當一面的面對所有下載需求。
 
 
-# P2P, Point to Point
+# P2P (Point to Point), 點對點傳輸
+
+
+# Tunneling, 隧道協議
