@@ -79,7 +79,7 @@ Virtual Private Network 虛擬私有網路
 
 ![mix](https://raw.githubusercontent.com/QueenieCplusplus/CCNA2020_VPN/master/mix_used.png)
 
-
+https://www.jannet.hk/zh-Hant/post/gre-over-ipsec-vs-ipsec-over-gre/#gre-over-ipsec
 
 
 
