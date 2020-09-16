@@ -26,7 +26,12 @@ Virtual Private Network 虛擬私有網路
 # 串連方式
 
 可以與 ISP 或是電信公司提供的服務相互合作，不受限制。
-如數據機抑或 ADSL，ATM、FrameRelay 亦可!
+如數據機抑或 ADSL，ATM、FrameRelay 亦可! 
+
+# 網速受限
+
+傳統的 PVC 因為基於昂貴設備基礎建設和專線，保證了不受限制的網速，
+但是現代的 VPN 是共享線路（與 ISP 租賃撥接服務），無法保證網速。
 
 
 
