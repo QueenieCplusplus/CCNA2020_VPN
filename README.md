@@ -14,9 +14,9 @@ Virtual Private Network 虛擬私有網路
 讓傳統的伺服器不必獨當一面的面對所有下載需求。
 
 
-# P2P (Point to Point), 點對點傳輸
+# L2 P2P (Point to Point), 撥接的點對點傳輸
 
-藉由 GRE 封裝技術，建構虛擬隧道，實現點對點傳輸。
+藉由封裝技術，改變封包，讓封包如同膠囊，彼此建構虛擬隧道，實現點對點傳輸。
 
 
 # Tunneling, 隧道協議
