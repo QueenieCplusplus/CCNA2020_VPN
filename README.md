@@ -22,6 +22,8 @@ Virtual Private Network 虛擬私有網路
 
 # GRE 封裝技術
 
+微軟作業系統則有內建 MPPE，於此技術原理相同。
+
 ![gre](https://raw.githubusercontent.com/QueenieCplusplus/CCNA2020_VPN/master/GRE%20Frame.png)
 
 
