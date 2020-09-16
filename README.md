@@ -27,6 +27,11 @@ Virtual Private Network 虛擬私有網路
 ![gre](https://raw.githubusercontent.com/QueenieCplusplus/CCNA2020_VPN/master/GRE%20Frame.png)
 
 
+# SetUp 設定方式
+
+![setup]()
+
+
 # Tunneling, 隧道協議
 
 遠端使用者利用 ISP 提供的撥接服務（取代傳統的長途撥接），藉由隧道協定，穿過 WAN ，到達本地端的 LAN 區域網路內。
