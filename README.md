@@ -15,6 +15,8 @@ Virtual Private Network 虛擬私有網路
 
 # P2P (Point to Point), 點對點傳輸
 
+藉由 GRE 封裝技術，建構虛擬隧道，實現點對點傳輸。
+
 
 # Tunneling, 隧道協議
 
