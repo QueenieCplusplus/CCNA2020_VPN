@@ -34,7 +34,7 @@ Virtual Private Network 虛擬私有網路
 
 封裝技術為 GRE。
 鑑別技術則為 AH (爾後發展了 X.509)，加密技術為 ESP。
-金鑰管理技術則為 。
+金鑰管理技術則為 ISAKMP 框架 + OAKLEY。
 
 
 # GRE 封裝技術
