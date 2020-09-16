@@ -20,6 +20,15 @@ Virtual Private Network 虛擬私有網路
 鑑別技術則為 RAP、CHAP (爾後發展了 X.509)，加密技術為 DES。
 金鑰管理技術則為 SKMIP。
 
+* PPP:
+
+使用 GRE 封裝技術。
+
+
+* L2TP:
+
+與 PPP 類同，但是使用 UDP 取代 TCP，能節省通道，可在同一通道實行多條連線傳輸。
+
 
 # GRE 封裝技術
 
